@@ -1,0 +1,6 @@
+#! /bin/sh
+echo "What it your name"
+read name 
+echo "How do you do, $name?"
+read remark
+echo "I am $remart too!"
