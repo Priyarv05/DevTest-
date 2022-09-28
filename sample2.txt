@@ -1,0 +1,6 @@
+#! /bin/sh
+echo "What is your name"
+read Priya
+echo "How are you, $Priya"
+read Fine
+echo "I am $fine too!"
